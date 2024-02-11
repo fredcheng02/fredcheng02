@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-To visit my website, click [here](fredcheng02.github.io).
+To visit my website, click [here](https://fredcheng02.github.io).
 
 <!--
 **fredcheng02/fredcheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
