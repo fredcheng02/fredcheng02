@@ -2,7 +2,7 @@
 
 To visit my website, click [here](https://fredcheng02.github.io).
 
-My academic interest lies at the intersection of probability and statistics.
+My academic interests include discrete probability and high-dimensional probability.
 
 <!--
 **fredcheng02/fredcheng02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
